@@ -4,3 +4,5 @@
   https://janhalozan.com/2019/06/01/lane-detector/
   
 2. OpenCV needed
+
+3. Tested in Mac 
